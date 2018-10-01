@@ -1,1 +1,1 @@
-#regras basica firewall  gnu//linux
+#regras básicas firewall  gnu//linux
