@@ -4,12 +4,17 @@
 
 
 Observando tabela filter
+
+
 watch iptables -t  filter -L -v
 
 
 
 =====================================
+
+
 Add regras
+
 
 cp firewall_rules.sh  /etc/init.d
 
